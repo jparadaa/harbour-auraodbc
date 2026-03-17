@@ -18,6 +18,7 @@ una forma sencilla de conectarme a SQL Server desde Harbour sin reescribir
 todo. `libhbodbc.a`, el contrib oficial de Harbour, ya expone todo lo
 necesario a nivel C. Solo faltaba una clase con una API cómoda encima.
 Eso es TAuraODBC.
+
 ---
 
 ## Características
