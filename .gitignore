@@ -1,0 +1,7 @@
+# Binarios compilados en Linux
+test_completo
+*.o
+*.a
+
+# Log de pruebas
+test_odbc.log
